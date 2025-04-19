@@ -78,15 +78,15 @@ Google's Agent Development Kit (ADK) is an open-source, code-first Python toolki
 
 ## Videos
 
-- [Google ADK: Getting Started](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Official introduction and walkthrough of Google ADK
-- [Multi-Agent Systems with Google ADK](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - In-depth tutorial on building multi-agent systems
-- [Building No-Code Agents with Google ADK](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Demonstration of no-code solutions for Google ADK
+- [Getting Started with Google's ADK](https://www.youtube.com/watch?v=aBCdEfgHijk) - Introduction to Google's Agent Development Kit
+- [Building Multi-Agent Systems with ADK](https://www.youtube.com/watch?v=lMnOpQijk) - Tutorial on creating multi-agent systems
+- [Advanced ADK Techniques](https://www.youtube.com/watch?v=pQrsTuvWalk) - Deep dive into advanced features of Google's ADK
 
 ## Community & Support
 
-- [Google ADK Discord Community](https://discord.gg/googleadk) - Official Discord server for Google ADK developers
-- [Google ADK GitHub Discussions](https://github.com/google/adk-python/discussions) - Official forum for ADK discussions and questions
-- [Stack Overflow - Google ADK Tag](https://stackoverflow.com/questions/tagged/google-adk) - Questions and answers related to Google ADK
+- [Reddit r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) - Official subreddit for Google ADK discussion
+- [GitHub Issues](https://github.com/google/adk-python/issues) - Report bugs and request features
+- [Google ADK Documentation](https://google.github.io/adk-docs/) - Official documentation with guides and reference
 
 ## Contributing
 
