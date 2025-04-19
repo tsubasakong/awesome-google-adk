@@ -35,6 +35,7 @@ Google's Agent Development Kit (ADK) is an open-source, code-first Python toolki
 - [google/adk-python](https://github.com/google/adk-python) - The official Python implementation of Google's Agent Development Kit
 - [google/adk-docs](https://github.com/google/adk-docs) - Official documentation for the Google Agent Development Kit
 - [google/adk-samples](https://github.com/google/adk-samples) - Official sample agents built with Google's ADK
+- [Making it easy to build multi-agent applications](https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications) - Google Developers Blog, Apr 2025
 
 ## Community Projects
 
@@ -72,21 +73,21 @@ Google's Agent Development Kit (ADK) is an open-source, code-first Python toolki
 
 ## Articles & Tutorials
 
-- [Introduction to Google's Agent Development Kit](https://ai.google.dev/adk) - Official guide to getting started with Google ADK
-- [Building Multi-Agent Systems with Google ADK](https://www.marktechpost.com/2025/04/08/building-multi-agent-systems-with-google-adk/) - Tutorial on creating multi-agent systems
-- [Crafting AI Agents with Google's ADK](https://medium.com/@aidevjourney/crafting-ai-agents-with-google-adk-2c9d45f7e892) - Comprehensive guide on building agents with Google ADK
+- [From Zero to Multi-Agents: A Beginner's Guide to Google ADK](https://medium.com/@sokratis.kartakis/from-zero-to-multi-agents-a-beginners-guide-to-google-agent-development-kit-adk-b56e9b5f7861) - Step-by-step beginner guide by Dr Sokratis Kartakis
+- [Introducing the Agent Development Kit (ADK): Build Powerful Interoperable AI Agents with Ease](https://medium.com/google-cloud/introducing-the-agent-development-kit-adk-build-powerful-interoperable-ai-agents-with-ease-d2f8ef005376) - Detailed look at ADK's architecture and evaluation tools
+- [Build and manage multi-system agents with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/build-and-manage-multi-system-agents-with-vertex-ai) - How ADK plugs into Vertex AI & Agentspace for production deployments
 
 ## Videos
 
-- [Getting Started with Google's ADK](https://www.youtube.com/watch?v=aBCdEfgHijk) - Introduction to Google's Agent Development Kit
-- [Building Multi-Agent Systems with ADK](https://www.youtube.com/watch?v=lMnOpQijk) - Tutorial on creating multi-agent systems
-- [Advanced ADK Techniques](https://www.youtube.com/watch?v=pQrsTuvWalk) - Deep dive into advanced features of Google's ADK
+- [Introducing Agent Development Kit (ADK)](https://www.youtube.com/watch?v=zgrOwow_uTQ) - 3-minute product overview shown at launch
+- [Getting started with ADK](https://www.youtube.com/watch?v=44C8u0CDtSo) - 12-minute "hello-world" coding session from pip install to first agent
+- [Google Launches an Agent SDK – ADK Deep Dive](https://www.youtube.com/watch?v=G9wnpfW6lZY) - Independent review comparing ADK to other agent SDKs
 
 ## Community & Support
 
+- [GitHub Discussions – google/adk-python](https://github.com/google/adk-python/discussions) - Official discussion board for feature requests and troubleshooting
+- [Stack Overflow – `google-agent-development-kit` tag](https://stackoverflow.com/questions/tagged/google-agent-development-kit) - Public Q&A for technical questions
 - [Reddit r/agentdevelopmentkit](https://www.reddit.com/r/agentdevelopmentkit/) - Official subreddit for Google ADK discussion
-- [GitHub Issues](https://github.com/google/adk-python/issues) - Report bugs and request features
-- [Google ADK Documentation](https://google.github.io/adk-docs/) - Official documentation with guides and reference
 
 ## Contributing
 
