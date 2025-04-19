@@ -63,6 +63,7 @@ Google's Agent Development Kit (ADK) is an open-source, code-first Python toolki
 - [AashiDutt/Google-Agent-Development-Kit-Demo](https://github.com/AashiDutt/Google-Agent-Development-Kit-Demo) - ADK-powered travel planner
 - [jenyss/google-adk-data-visualization-agent](https://github.com/jenyss/google-adk-data-visualization-agent) - Data visualization agent built with Google ADK
 - [IhateCreatingUserNames2/Cognisphere](https://github.com/IhateCreatingUserNames2/Cognisphere) - Cognisphere ADK, an AI agent development framework built on Google's ADK
+- [heurist-network/dev-examples/python/adk-google-sheet-mcp-project](https://github.com/heurist-network/dev-examples/tree/main/python/adk-google-sheet-mcp-project) - Crypto data pipeline using Google ADK that integrates with MCP servers to fetch real-time data and automatically save it to Google Sheets
 
 ### Model Integrations
 
