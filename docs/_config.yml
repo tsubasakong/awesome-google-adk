@@ -1,0 +1,24 @@
+theme: jekyll-theme-cayman
+title: Awesome Google ADK
+description: A curated list of awesome resources for Google's Agent Development Kit (ADK)
+show_downloads: true
+google_analytics:
+plugins:
+  - jekyll-seo-tag
+
+# SEO settings
+twitter:
+  username: tsubasakong
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png
+
+# Additional metadata to improve SEO
+author:
+  name: tsubasakong
+  twitter: tsubasakong
+lang: en_US
