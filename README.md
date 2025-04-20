@@ -1,10 +1,13 @@
-# Awesome Google ADK
+# Awesome Google ADK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/tsubasakong/awesome-google-adk?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/github/forks/tsubasakong/awesome-google-adk?style=flat-square" alt="Forks">
   <img src="https://img.shields.io/github/issues/tsubasakong/awesome-google-adk?style=flat-square" alt="Issues">
   <img src="https://img.shields.io/github/license/tsubasakong/awesome-google-adk?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  <img src="https://img.shields.io/badge/Google-ADK-blue?style=flat-square" alt="Google ADK">
+  <img src="https://img.shields.io/badge/AI-Agents-orange?style=flat-square" alt="AI Agents">
 </p>
 
 <p align="center">A curated list of awesome resources, libraries, tools, and projects for Google's Agent Development Kit (ADK).</p>
@@ -29,6 +32,8 @@
 ## Introduction
 
 Google's Agent Development Kit (ADK) is an open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. Released in April 2025, ADK gives developers the tools to create, test, and deploy AI agents across various use cases and requirements.
+
+The toolkit enables building multi-agent systems that can collaborate on complex tasks, connect with various APIs and services, and integrate with different LLM providers including Google Gemini, OpenAI, Anthropic, and others.
 
 ## Official Resources
 
@@ -107,3 +112,10 @@ For more detailed guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+---
+
+## Related Lists
+
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - A curated list of Large Language Models
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - A curated list of awesome AI agents and related resources
