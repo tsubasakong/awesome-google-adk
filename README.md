@@ -37,6 +37,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
   - [Tutorials & Walkthroughs](#tutorials--walkthroughs)
   - [Domain-Specific Applications](#domain-specific-applications)
   - [Model Integrations](#model-integrations)
+  - [Interoperability & Integration](#interoperability--integration)
 - [Expert Curation](#expert-curation)
 - [Articles & Tutorials](#articles--tutorials)
 - [Videos](#videos)
@@ -84,6 +85,11 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 - [VeereshGowda/google-adk-multiagent](https://github.com/VeereshGowda/google-adk-multiagent) - Multi-agent system using Azure OpenAI models with Google's ADK
 - [trung-tlt/weather-agent-ai](https://github.com/trung-tlt/weather-agent-ai) - Weather information agent using Google ADK with OpenAI and Anthropic model integration via LiteLLM
+
+### Interoperability & Integration
+
+- [Communicating Between uAgents and Google ADK](https://medium.com/fetch-ai/communicating-between-uagents-and-google-adk-a-step-by-step-guide-c15f355a8dcf) - Step-by-step guide on enabling communication between Fetch.ai's uAgents and Google ADK
+- [Connect Airbnb MCP Server with Google ADK](https://medium.aiplanet.com/connect-airbnb-mcp-server-with-google-adk-mcp-and-agent-development-kit-3a3976b7b4ec) - Guide for connecting Airbnb's MCP server with Google ADK using Python
 
 ## Expert Curation
 
