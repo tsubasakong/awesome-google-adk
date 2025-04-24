@@ -66,6 +66,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 ### Templates & Starters
 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution. Includes samples with Google's ADK.
 - [kkdai/linebot-adk](https://github.com/kkdai/linebot-adk) - LINE Bot template that works with Google's ADK
 - [phamvuhoang/google-adk-nextjs-starter](https://github.com/phamvuhoang/google-adk-nextjs-starter) - Next.js starter template for Google ADK projects
 
