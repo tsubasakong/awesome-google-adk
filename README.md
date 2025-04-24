@@ -72,6 +72,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 ### Tutorials & Walkthroughs
 
+- [meteatamel/adk-demos](https://github.com/meteatamel/adk-demos/) - Collection of demos and tutorials for Google's Agent Development Kit
 - [sokart/adk-walkthrough](https://github.com/sokart/adk-walkthrough) - Step-by-step guides and examples using the open-source Python ADK framework
 
 ### Domain-Specific Applications
