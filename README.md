@@ -92,6 +92,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 - [Communicating Between uAgents and Google ADK](https://medium.com/fetch-ai/communicating-between-uagents-and-google-adk-a-step-by-step-guide-c15f355a8dcf) - Step-by-step guide on enabling communication between Fetch.ai's uAgents and Google ADK
 - [Connect Airbnb MCP Server with Google ADK](https://medium.aiplanet.com/connect-airbnb-mcp-server-with-google-adk-mcp-and-agent-development-kit-3a3976b7b4ec) - Guide for connecting Airbnb's MCP server with Google ADK using Python
+- [How to Connect Google ADK to Heurist MCP in Minutes](https://heuristai.medium.com/how-to-connect-google-adk-to-heurist-mcp-in-minutes-32d2ea39abaf) - Tutorial for quickly connecting Google ADK with Heurist MCP for seamless integration
 
 ## Expert Curation
 
