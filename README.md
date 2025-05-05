@@ -51,6 +51,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 - [google/adk-docs](https://github.com/google/adk-docs) - Official documentation for the Google Agent Development Kit
 - [google/adk-samples](https://github.com/google/adk-samples) - Official sample agents built with Google's ADK
 - [Making it easy to build multi-agent applications](https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications) - Google Developers Blog, Apr 2025
+- [ADK Tutorials](https://google.github.io/adk-docs/tutorials/) – Official, step‑by‑step guides covering multi‑agent patterns, streaming, and deployment.
 
 ## Community Projects
 
@@ -69,6 +70,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution. Includes samples with Google's ADK.
 - [kkdai/linebot-adk](https://github.com/kkdai/linebot-adk) - LINE Bot template that works with Google's ADK
 - [phamvuhoang/google-adk-nextjs-starter](https://github.com/phamvuhoang/google-adk-nextjs-starter) - Next.js starter template for Google ADK projects
+- [chongdashu/adk‑made‑simple](https://github.com/chongdashu/adk-made-simple) – Lesson‑based starter agents used in the "ADK Made Simple" YouTube series.
 
 ### Tutorials & Walkthroughs
 
@@ -87,12 +89,14 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 
 - [VeereshGowda/google-adk-multiagent](https://github.com/VeereshGowda/google-adk-multiagent) - Multi-agent system using Azure OpenAI models with Google's ADK
 - [trung-tlt/weather-agent-ai](https://github.com/trung-tlt/weather-agent-ai) - Weather information agent using Google ADK with OpenAI and Anthropic model integration via LiteLLM
+- [Getting Started with ADK + AWS Bedrock](https://medium.com/@ankitsharma61016/getting-started-with-agent-development-kit-adk-with-aws-bedrock-2a4cc91fbd21) – Step‑by‑step guide to run Bedrock models in ADK via LiteLLM.
 
 ### Interoperability & Integration
 
 - [Communicating Between uAgents and Google ADK](https://medium.com/fetch-ai/communicating-between-uagents-and-google-adk-a-step-by-step-guide-c15f355a8dcf) - Step-by-step guide on enabling communication between Fetch.ai's uAgents and Google ADK
 - [Connect Airbnb MCP Server with Google ADK](https://medium.aiplanet.com/connect-airbnb-mcp-server-with-google-adk-mcp-and-agent-development-kit-3a3976b7b4ec) - Guide for connecting Airbnb's MCP server with Google ADK using Python
 - [How to Connect Google ADK to Heurist MCP in Minutes](https://heuristai.medium.com/how-to-connect-google-adk-to-heurist-mcp-in-minutes-32d2ea39abaf) - Tutorial for quickly connecting Google ADK with Heurist MCP for seamless integration
+- [serkanyasr/mcp‑agent‑tool‑adapter](https://github.com/serkanyasr/mcp-agent-tool-adapter) – Converts MCP tools into Google ADK or LangGraph agents with streaming FastAPI/CLI.
 
 ## Expert Curation
 
@@ -111,6 +115,8 @@ This external curation provides additional validation for projects in this list 
 - [From Zero to Multi-Agents: A Beginner's Guide to Google ADK](https://medium.com/@sokratis.kartakis/from-zero-to-multi-agents-a-beginners-guide-to-google-agent-development-kit-adk-b56e9b5f7861) - Step-by-step beginner guide by Dr Sokratis Kartakis
 - [Introducing the Agent Development Kit (ADK): Build Powerful Interoperable AI Agents with Ease](https://medium.com/google-cloud/introducing-the-agent-development-kit-adk-build-powerful-interoperable-ai-agents-with-ease-d2f8ef005376) - Detailed look at ADK's architecture and evaluation tools
 - [Build and manage multi-system agents with Vertex AI](https://cloud.google.com/blog/products/ai-machine-learning/build-and-manage-multi-system-agents-with-vertex-ai) - How ADK plugs into Vertex AI & Agentspace for production deployments
+- [Getting started with ADK — Function tools](https://medium.com/google-cloud/getting-started-with-agent-development-kit-function-tools-3f038ee646ea) – Glen Yu's walkthrough of ADK function‑tool patterns.
+- [Google ADK is here! Bonus: MCP Toolbox](https://medium.com/@shuvro_25220/google-agent-development-kit-adk-is-here-bonus-mcp-toolbox-9e60ddf6d710) – Overview + research‑agent example linking ADK and MCP.
 
 ## Videos
 
