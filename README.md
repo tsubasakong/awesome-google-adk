@@ -98,6 +98,10 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 - [How to Connect Google ADK to Heurist MCP in Minutes](https://heuristai.medium.com/how-to-connect-google-adk-to-heurist-mcp-in-minutes-32d2ea39abaf) - Tutorial for quickly connecting Google ADK with Heurist MCP for seamless integration
 - [serkanyasr/mcp‑agent‑tool‑adapter](https://github.com/serkanyasr/mcp-agent-tool-adapter) – Converts MCP tools into Google ADK or LangGraph agents with streaming FastAPI/CLI.
 
+### Memory & Persistence
+
+- [anmolg1997/adk-database-memory](https://github.com/anmolg1997/adk-database-memory) - Persistent `BaseMemoryService` for ADK Python backed by async SQLAlchemy. Drop-in replacement for `InMemoryMemoryService` with SQLite, PostgreSQL, and MySQL/MariaDB support. [Listed in the official ADK integrations catalog](https://google.github.io/adk-docs/integrations/database-memory/).
+
 ## Expert Curation
 
 For a concise collection of standout ADK projects, check out Adam Silverman's [thread on X](https://x.com/AtomSilverman/status/1914761719345496395) where he identifies "10 of the best projects built with Google's Agent Development Kit (ADK)" including:
