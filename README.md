@@ -97,6 +97,7 @@ Whether you're building your first ADK agent or architecting complex multi-agent
 - [Connect Airbnb MCP Server with Google ADK](https://medium.aiplanet.com/connect-airbnb-mcp-server-with-google-adk-mcp-and-agent-development-kit-3a3976b7b4ec) - Guide for connecting Airbnb's MCP server with Google ADK using Python
 - [How to Connect Google ADK to Heurist MCP in Minutes](https://heuristai.medium.com/how-to-connect-google-adk-to-heurist-mcp-in-minutes-32d2ea39abaf) - Tutorial for quickly connecting Google ADK with Heurist MCP for seamless integration
 - [serkanyasr/mcp‑agent‑tool‑adapter](https://github.com/serkanyasr/mcp-agent-tool-adapter) – Converts MCP tools into Google ADK or LangGraph agents with streaming FastAPI/CLI.
+- [DC Hub MCP for ADK](https://dchub.cloud/mcp/builders?via=awesome-google-adk) - Neutral, read-only data layer for data-center work (facilities, markets, power and substations, fiber, water, site risk; 300+ markets), usable from an ADK agent via `McpToolset` with `StreamableHTTPConnectionParams(url="https://dchub.cloud/mcp")` and `tool_filter`.
 
 ## Expert Curation
 
